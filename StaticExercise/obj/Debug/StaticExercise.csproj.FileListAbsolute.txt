@@ -1,0 +1,8 @@
+C:\Git_Repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.csproj.AssemblyReference.cache
+C:\Git_Repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Git_Repos\StaticExercise\StaticExercise\bin\Debug\StaticExercise.exe.config
+C:\Git_Repos\StaticExercise\StaticExercise\bin\Debug\StaticExercise.exe
+C:\Git_Repos\StaticExercise\StaticExercise\bin\Debug\StaticExercise.pdb
+C:\Git_Repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.exe
+C:\Git_Repos\StaticExercise\StaticExercise\obj\Debug\StaticExercise.pdb
